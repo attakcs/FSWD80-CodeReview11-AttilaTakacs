@@ -1,0 +1,34 @@
+.jumbotron {
+
+	height: 30vh;
+	background: url('../img/jumbo.jpg') 15%;
+	background-size: cover;
+}
+
+
+/* h1 elements on main pages */
+.text-center {
+
+	margin: 30px auto;
+}
+
+/* crud add buttons */
+.btn-dark {
+
+	margin-left: 10px;
+}
+
+.card {
+	margin: 10px;
+}
+
+.card > img {
+
+	width: 100%;
+	height: 40%;
+} 
+
+.card-body {
+
+	overflow:hidden;
+}
